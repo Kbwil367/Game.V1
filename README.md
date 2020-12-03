@@ -1,1 +1,1 @@
-# Game.V1
+# Game.V1 This is a game where you must kill the evil peepo chasing you down, it requires strategy because your only weapon is a peepo bullet who moves where you do. Can you beat the peepo running at you at optimal speed?
